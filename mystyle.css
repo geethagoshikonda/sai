@@ -1,0 +1,19 @@
+/*ELEMENT SELECTOR*/
+body{
+background-color:red;
+}
+/*id selector*/
+#r{
+color: white;
+text-align: center;
+}
+/* class selector*/
+.g{
+ COLOR: yellow;
+ font-size: 20px;
+}
+/* GROUPING SELECTOR*/
+H2,H3{
+COLOR:GREEN;
+TEXT-ALIGN: CENTER;
+/*UNIVERSAL SELECTOR*/
